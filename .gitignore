@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+
+# Sensitive Configurations
+config.json
+.env
+
+# Runtime Files
+output/
+logs/
+*.pyc
+__pycache__/
+
+# OS and Editor Files
+.DS_Store
+Thumbs.db
